@@ -1,0 +1,30 @@
+#ZHOME
+FL,,2147483647
+BL,,-2147483647
+SP,, zeroz
+PR,, 50000
+BGZ
+AMZ
+WT100
+JG,, zeroz
+FEZ
+BGZ
+AMZ
+WT100
+JG,,100
+FIZ
+BGZ
+AMZ
+WT10
+SP,, zeroz
+PA,, ZeroOffZ
+BGZ
+AMZ
+WT100
+DP,,0
+DE,,0
+FL,,nSFLZ
+BL,,nSBLZ
+MachZ=0
+homecz=1
+EN

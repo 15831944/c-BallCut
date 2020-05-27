@@ -1,0 +1,30 @@
+#BHOME
+FL,,,,2147483647
+BL,,,,-2147483647
+SP,,,, zeroe
+PR,,,, 5000
+BGE
+AME
+WT100
+JG,,,, zeroe
+FEE
+BGE
+AME
+WT100
+JG,,,,200
+FIE
+BGE
+AME
+WT100
+SP,,,, zeroe
+PA,,,, ZeroOffE
+BGE
+AME
+WT100
+DP,,,,0
+DE,,,,0
+FL,,,,nSFLB
+BL,,,,nSBLB
+MachE=0
+homece=1
+EN

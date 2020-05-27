@@ -1,0 +1,35 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "BallCut"=.\BallCut.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {9DA7072B-A6DB-4819-8FDC-C818CC82A02D}
+    {8C236C62-832C-441E-BA96-9FDB080C059E}
+    {71A5E095-40DA-4A4D-83D3-21D29C89C7B5}
+    {769D5AAE-0342-424F-9ABD-386E44BA4123}
+    {81B9117E-72B5-4DE3-963B-0A3F5B06F66B}
+    {C06EA015-E48A-4FF2-8862-28925C248B46}
+}}}
+
+###############################################################################
+

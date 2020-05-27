@@ -1,0 +1,30 @@
+#CHOME
+FL,,,,,2147483647
+BL,,,,,-2147483647
+SP,,,,, zerof
+PR,,,,, 5000
+BGF
+AMF
+WT100
+JG,,,,, zerof
+FEF
+BGF
+AMF
+WT100
+JG,,,,,1000
+FIF
+BGF
+AMF
+WT100
+SP,,,,, zerof
+PA,,,,, ZeroOffF
+BGF
+AMF
+WT100
+DP,,,,,0
+DE,,,,,0
+FL,,,,,nSFLC
+BL,,,,,nSBLC
+MachF=0
+homecf=1
+EN

@@ -1,0 +1,30 @@
+#AHOME
+FL,,,2147483647
+BL,,,-2147483647
+SP,,, zerow
+PR,,, 5000
+BGW
+AMW
+WT100
+JG,,, zerow
+FEW
+BGW
+AMW
+WT100
+JG,,,1000
+FIW
+BGW
+AMW
+WT100
+SP,,, zerow
+PA,,, ZeroOffW
+BGW
+AMW
+WT100
+DP,,,0
+DE,,,0
+FL,,,nSFLA
+BL,,,nSBLA
+MachW=0
+homecw=1
+EN

@@ -1,0 +1,166 @@
+#HOME
+XQ#YHOME,1
+XQ#ZHOME,2
+XQ#WHOME,3
+XQ#EHOME,4
+XQ#FHOME,5
+#XHOME
+FL2147483647
+BL-2147483647
+DP0
+DE0
+FLnSFLX
+BLnSBLX
+MachX=0
+homecx=1
+EN
+#YHOME
+FL,2147483647
+BL,-2147483647
+SP, zeroy
+PR, 5000
+BGY
+AMY
+WT100
+JG, zeroy
+FEY
+BGY
+AMY
+WT100
+JG,1000
+FIY
+BGY
+AMY
+WT100
+SP, zeroy
+PA, ZeroOffY
+BGY
+AMY
+WT100
+DP,0
+DE,0
+FL,nSFLY
+BL,nSBLY
+MachY=0
+homecy=1
+EN
+#ZHOME
+FL,,2147483647
+BL,,-2147483647
+SP,, zeroz
+PR,, 50000
+BGZ
+AMZ
+WT100
+JG,, zeroz
+FEZ
+BGZ
+AMZ
+WT100
+JG,,100
+FIZ
+BGZ
+AMZ
+WT10
+SP,, zeroz
+PA,, ZeroOffZ
+BGZ
+AMZ
+WT100
+DP,,0
+DE,,0
+FL,,nSFLZ
+BL,,nSBLZ
+MachZ=0
+homecz=1
+EN
+#WHOME
+FL,,,2147483647
+BL,,,-2147483647
+SP,,, zerow
+PR,,, 5000
+BGW
+AMW
+WT100
+JG,,, zerow
+FEW
+BGW
+AMW
+WT100
+JG,,,1000
+FIW
+BGW
+AMW
+WT100
+SP,,, zerow
+PA,,, ZeroOffW
+BGW
+AMW
+WT100
+DP,,,0
+DE,,,0
+FL,,,nSFLA
+BL,,,nSBLA
+MachW=0
+homecw=1
+EN
+#EHOME
+FL,,,,2147483647
+BL,,,,-2147483647
+SP,,,, zeroe
+PR,,,, 5000
+BGE
+AME
+WT100
+JG,,,, zeroe
+FEE
+BGE
+AME
+WT100
+JG,,,,200
+FIE
+BGE
+AME
+WT100
+SP,,,, zeroe
+PA,,,, ZeroOffE
+BGE
+AME
+WT100
+DP,,,,0
+DE,,,,0
+FL,,,,nSFLB
+BL,,,,nSBLB
+MachE=0
+homece=1
+EN
+#FHOME
+FL,,,,,2147483647
+BL,,,,,-2147483647
+SP,,,,, zerof
+PR,,,,, 5000
+BGF
+AMF
+WT100
+JG,,,,, zerof
+FEF
+BGF
+AMF
+WT100
+JG,,,,,1000
+FIF
+BGF
+AMF
+WT100
+SP,,,,, zerof
+PA,,,,, ZeroOffF
+BGF
+AMF
+WT100
+DP,,,,,0
+DE,,,,,0
+FL,,,,,nSFLC
+BL,,,,,nSBLC
+MachF=0
+homecf=1
+EN
